@@ -54,8 +54,8 @@
 }
 
 .github-fork-ribbon-wrapper {
-  width: 150px;
-  height: 150px;
+  width: 90px;
+  height: 90px;
   position: absolute;
   overflow: hidden;
   top: 0;
@@ -90,8 +90,8 @@
 }
 
 .github-fork-ribbon-wrapper.right .github-fork-ribbon {
-  top: 42px;
-  right: -43px;
+  top: 15px;
+  right: -69px;
 
   -webkit-transform: rotate(45deg);
   -moz-transform: rotate(45deg);
